@@ -1,0 +1,8 @@
+config/
+dist/
+migrations/
+models/
+node_modules/
+seeders/
+.env
+.sequelizerc.js
